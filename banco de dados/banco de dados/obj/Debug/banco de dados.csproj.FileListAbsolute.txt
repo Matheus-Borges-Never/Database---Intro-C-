@@ -1,0 +1,11 @@
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\bin\Debug\banco de dados.exe.config
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\bin\Debug\banco de dados.exe
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\bin\Debug\banco de dados.pdb
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\obj\Debug\banco de dados.csproj.AssemblyReference.cache
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\obj\Debug\banco de dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\obj\Debug\banco_de_dados.Form1.resources
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\obj\Debug\banco_de_dados.Properties.Resources.resources
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\obj\Debug\banco de dados.csproj.GenerateResource.cache
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\obj\Debug\banco de dados.csproj.CoreCompileInputs.cache
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\obj\Debug\banco de dados.exe
+C:\Users\matheus.bpaulino\source\repos\banco de dados\banco de dados\obj\Debug\banco de dados.pdb
